@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="task" label="Mechanical service" max_length="40" name="x_51117_mechanical_mechanical_service" type="collection">
+        <element label="Buyer" max_length="32" name="buyer" reference="sys_user" type="reference"/>
         <element choice="1" label="Service type" max_length="40" name="service_type" type="choice">
             <choice>
                 <element label="Review" sequence="0" value="Review"/>
