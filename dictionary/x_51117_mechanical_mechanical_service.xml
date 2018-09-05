@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Mechanical service" max_length="40" name="x_51117_mechanical_mechanical_service" type="collection">
+        <element choice="1" label="Service type" max_length="40" name="service_type" type="choice">
+            <choice>
+                <element label="Review" sequence="0" value="Review"/>
+                <element label="Brake change" sequence="1" value="Brake change"/>
+                <element label="Motor wash" sequence="2" value="Motor wash"/>
+            </choice>
+        </element>
+    </element>
+</database>

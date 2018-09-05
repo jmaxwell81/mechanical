@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Mechanical service" language="en" table="x_51117_mechanical_mechanical_service">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Mechanical service</label>
+            <language>en</language>
+            <name>x_51117_mechanical_mechanical_service</name>
+            <plural>Mechanical services</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-05 20:17:01</sys_created_on>
+            <sys_id>027028f6db902300f6de0181ca9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mechanical service</sys_name>
+            <sys_package display_value="Mechanical services" source="x_51117_mechanical">b02e90b2db902300f6de0181ca9619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mechanical services">b02e90b2db902300f6de0181ca9619e1</sys_scope>
+            <sys_update_name>sys_documentation_x_51117_mechanical_mechanical_service__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-05 20:17:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
